@@ -1,0 +1,13 @@
+resident identity data
+resident Address
+resident phone No
+resident occupation(past)
+
+next of kin
+ 
+care plan
+health hx
+dxs
+
+Gp contacts and clinics
+
